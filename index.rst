@@ -8,9 +8,10 @@ Welcome to Basics of Git and Github.
 
 .. toctree::
    :maxdepth: 2
+   course_overview.md
    :numbered:
    
-   course_overview.md
+   
    Git.md
    Git2.md
    Git3.md
