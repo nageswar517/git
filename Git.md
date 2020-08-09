@@ -1,1 +1,1 @@
-# Chapter 1  Git and Github
+# Chapter - 1 <br> Introduction to Git and Github
