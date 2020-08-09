@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Basics of Git and Github'
+project = 'Basics of Git and Github : A Small Course.'
 copyright = '2020, Nageswar'
 author = 'Nageswar'
 
