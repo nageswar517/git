@@ -1,2 +1,2 @@
-# Chapter 3 <br> Basics Of Git
+# Basics Of Git
 
