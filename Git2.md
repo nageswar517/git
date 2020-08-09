@@ -1,4 +1,4 @@
-# Chapter 2 <br> Installation of Git on Computer
+# Installation of Git on Computer
 
 ## Requirements <br>
 
