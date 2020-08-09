@@ -4,7 +4,7 @@
 
 To install git the following requirements are to be satisfied:
 1. Computer or Laptop running:
-  * Windows 7,8,8.1 or 10.
+  * Windows 7 or 8 or 8.1 or 10. Versions below 7 are not preferable.
   * Linux or Unix.
   * macOS. <br>
 2. Internet Connection
