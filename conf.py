@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Source Code Management with Git and Github'
+project = 'Basics of Git and Github'
 copyright = '2020, Nageswar'
 author = 'Nageswar'
 
