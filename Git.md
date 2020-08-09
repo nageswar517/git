@@ -1,4 +1,4 @@
-# Chapter - 1 <br> Introduction to Git
+# Chapter - 2 <br> Introduction to Git
 ## Introduction to Git. <br>
   Git : a tool for local repositories.
   Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers. It is used to create repositories(commonly known as repos) on the local computer(or workstation). Git uses Linux based Bash shell. <br>
