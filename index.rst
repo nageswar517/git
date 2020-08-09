@@ -10,7 +10,7 @@ Welcome to Basics of Git and Github.
    :maxdepth: 2
    :numbered:
    
-   
+   course_overview.md
    Git.md
    Git2.md
    Git3.md
