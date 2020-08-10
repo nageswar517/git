@@ -9,6 +9,7 @@ To install git the following requirements are to be satisfied:
   * macOS. <br>
 2. Internet Connection
 3. Disk Space
+4. Please make sure you have a github account.
 
 ## Installing Git <br>
 ##### These steps are for windows only.
