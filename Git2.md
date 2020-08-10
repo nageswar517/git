@@ -30,6 +30,6 @@ To install git the following requirements are to be satisfied:
 <img src="10.jpg"> <br><br> Click next.<br><br>
 <img src="11.jpg"> <br><br> Click next.<br><br>
 
-To verify the installation right-click on the desktop. In th menu you must get Git Bash Here and Git GUI here. If not your installation is unsuccessful and you must run the setup once again.<br> <br>
+To verify the installation right-click on the desktop. In the menu you must get Git Bash Here and Git GUI here. If not your installation is unsuccessful and you must run the setup once again.<br> <br>
 
 <img src="done.jpg">
