@@ -18,7 +18,7 @@ To install git the following requirements are to be satisfied:
 * Step-2 : Click on "Download for windows button".
 * Step-3 : Open the installer and run the setup. <br>
 
-<img src="1.jpg"> <br><br> Click next.<br><br>
+<img src="https://github.com/nageswar517/git/blob/master/1.jpg?raw=true"> <br><br> Click next.<br><br>
 <img src="2.jpg"> <br><br> Click next.<br><br>
 <img src="3.jpg"> <br><br> Click next.<br><br>
 <img src="4.jpg"> <br><br> Click next.<br><br>
